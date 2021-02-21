@@ -1,0 +1,60 @@
+body{
+	font-family: 'Lexend Mega', sans-serif;
+	font-family: 'Lexend Peta', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	padding :0;
+	margin: 10px;
+	background-color:lightskyblue;
+	}
+a:link,a:visited{
+	text-decoration:none;
+	color: brown;
+	font-weight: bold;
+}
+
+
+
+a:hover{
+	color: black;
+
+}
+nav ul{
+	list-style-type: none;
+	padding: 0px;
+}
+nav li{
+	float:left;
+}
+nav a:link,a:visited{
+	display: block;
+	background-color:brown;
+	color:white;
+	padding: 10px 0;
+	width: 200px;
+	text-align: center;
+	padding: 10px;
+
+}
+nav a:hover{
+	color: black;
+}
+	h3{
+		color:red;
+		}
+	h1{
+		color:green;
+	}
+	h2{
+		color: green;
+	}
+header{
+		background-image: url("header.jpg");
+		height:100px;
+	}
+button
+{
+	padding:10px;
+	font-weight:bold;
+	background-color:yellow;
+	color: #000;
+}
